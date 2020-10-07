@@ -1,2 +1,2 @@
-# KELP
-Központi Elektronikus Lekérdező Program
+# KELR
+Központi Elektronikus Lekérdező Rendszer (Java + SQL)
